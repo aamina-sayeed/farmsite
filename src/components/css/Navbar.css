@@ -1,0 +1,17 @@
+.navbar-nav .nav-item .nav-link{
+    color:azure !important;
+    border-bottom:2px solid transparent ;
+ }
+
+.navbar-brand{
+    color:azure !important;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+    color:burlywood!important;
+    border-bottom:2px solid burlywood;
+}
+
+.navbar{
+    font-size: 1.2rem;
+}
